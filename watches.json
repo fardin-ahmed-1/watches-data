@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Apple Watch Series 7",
+    "price": 399.99,
+    "model": "Series 7"
+  },
+  {
+    "name": "Samsung Galaxy Watch 4",
+    "price": 249.99,
+    "model": "Galaxy Watch 4"
+  },
+  {
+    "name": "Fitbit Versa 3",
+    "price": 179.95,
+    "model": "Versa 3"
+  },
+  {
+    "name": "Garmin Forerunner 945",
+    "price": 599.99,
+    "model": "Forerunner 945"
+  },
+  {
+    "name": "Fossil Gen 5 Carlyle",
+    "price": 295.00,
+    "model": "Gen 5 Carlyle"
+  },
+  {
+    "name": "Huawei Watch GT 3",
+    "price": 229.99,
+    "model": "Watch GT 3"
+  },
+  {
+    "name": "Amazfit GTS 3",
+    "price": 199.99,
+    "model": "GTS 3"
+  },
+  {
+    "name": "TicWatch Pro 3",
+    "price": 299.99,
+    "model": "Pro 3"
+  },
+  {
+    "name": "Xiaomi Mi Watch",
+    "price": 139.99,
+    "model": "Mi Watch"
+  },
+  {
+    "name": "Withings Steel HR Sport",
+    "price": 199.95,
+    "model": "Steel HR Sport"
+  }
+]
